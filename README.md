@@ -228,4 +228,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 
 
-- By visiting this page on our website: [https://shahryar-r.github.io/](https://shahryar-r.github.io/)
+- By visiting this page on our website: [https://shahryar-r.github.io/contact.html](https://shahryar-r.github.io/contact.html)
